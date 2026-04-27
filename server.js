@@ -18,7 +18,8 @@ const app = express();
 
 const allowedOrigins = [
   "http://localhost:5173",
-  ""
+  
+  "https://dansco-frontend-tech.vercel.app"
 ];
 
 const corsOptions = {
